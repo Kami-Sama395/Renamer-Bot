@@ -2,7 +2,7 @@
     "name": "Renamer Bot",
     "description": "Bot that renames single/multiple files and auto forwards.",
     "website": "https://github.com/Wolfy024",
-    "repository": "https://github.com/Wolfy024/Renamer-Bot",
+    "repository": "https://github.com/Kami-Sama395/Renamer-Bot",
     "keywords": ["telegrambot", "renamerbot"],
     "env": {
         "API_ID": {
